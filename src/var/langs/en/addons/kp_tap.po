@@ -1,0 +1,166 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::description::kp_tap"
+msgid "Tap payment gateway integration"
+msgstr "Tap payment gateway integration"
+
+msgctxt "Languages::kp_tap.mode"
+msgid "kp_tap.mode"
+msgstr "Mode"
+
+msgctxt "Languages::kp_tap.public_key"
+msgid "kp_tap.public_key"
+msgstr " Live Public key"
+
+msgctxt "Languages::kp_tap.private_key"
+msgid "kp_tap.private_key"
+msgstr "Live Secret Key"
+
+msgctxt "Languages::kp_tap.test_public_key"
+msgid "kp_tap.test_public_key"
+msgstr "Test Public key"
+
+msgctxt "Languages::kp_tap.test_private_key"
+msgid "kp_tap.test_private_key"
+msgstr "Test Secret Key"
+
+msgctxt "Languages::kp_tap.merchant_id"
+msgid "kp_tap.merchant_id"
+msgstr "Merchant ID"
+
+msgctxt "Languages::kp_tap.uimode"
+msgid "kp_tap.uimode"
+msgstr "Popup / Redirect"
+
+msgctxt "Languages::kp_tap.payment_mode"
+msgid "kp_tap.payment_mode"
+msgstr "Payment Mode"
+
+msgctxt "Languages::kp_tap.language"
+msgid "kp_tap.language"
+msgstr "Language"
+
+msgctxt "Languages::kp_tap.save_card"
+msgid "kp_tap.save_card"
+msgstr "Save Card"
+
+
+msgctxt "Languages::kp_tap.descriptor"
+msgid "kp_tap.descriptor"
+msgstr "Descriptor"
+
+msgctxt "Languages::kp_tap.currency"
+msgid "kp_tap.currency"
+msgstr "Currency"
+
+msgctxt "Languages::kp_tap.checkout_mode"
+msgid "kp_tap.checkout_mode"
+msgstr "Checkout mode"
+
+msgctxt "Languages::kp_tap.delayed_status"
+msgid "kp_tap.delayed_status"
+msgstr "Delayed mode status"
+
+msgctxt "Languages::kp_tap.capture_status"
+msgid "kp_tap.capture_status"
+msgstr "Capture status"
+
+msgctxt "Languages::kp_tap.void_status"
+msgid "kp_tap.void_status"
+msgstr "Void status"
+
+msgctxt "Languages::captured"
+msgid "captured"
+msgstr "Captured"
+
+msgctxt "Languages::amount_auth"
+msgid "amount_auth"
+msgstr "Authorized Amount"
+
+msgctxt "Languages::amount_capt"
+msgid "amount_capt"
+msgstr "Captured Amount"
+
+msgctxt "Languages::amount_refu"
+msgid "amount_refu"
+msgstr "Refunded Amount"
+
+msgctxt "Languages::voided_amount"
+msgid "voided_amount"
+msgstr "Voided Amount"
+
+msgctxt "Languages::kp_tap.amount"
+msgid "kp_tap.amount"
+msgstr "amount"
+
+msgctxt "Languages::kp_tap.refund"
+msgid "kp_tap.refund"
+msgstr "Refund"
+
+msgctxt "Languages::kp_tap.capture_status_help"
+msgid "kp_tap.capture_status_help"
+msgstr "If checkout mode is delayed, then when the order is set to this status will try to capture the amount."
+
+msgctxt "Languages::kp_tap.delayed_status_help"
+msgid "kp_tap.delayed_status_help"
+msgstr "If checkout mode is delayed, then when the order is placed will be set to this status."
+
+msgctxt "Languages::kp_tap.void_status_help"
+msgid "kp_tap.void_status_help"
+msgstr "If checkout mode is delayed, then when the order is set to this status will try to void the payment."
+
+msgctxt "Languages::kp_tap.popup_title"
+msgid "kp_tap.popup_title"
+msgstr "Popup title"
+
+msgctxt "Languages::kp_tap.we_are_processing_your_payment_text"
+msgid "kp_tap.we_are_processing_your_payment_text"
+msgstr "We are processing your payment, please not refresh the page."
+
+msgctxt "Languages::kp_tap.authorized_amount"
+msgid "kp_tap.authorized_amount"
+msgstr "Authorized Amount"
+
+msgctxt "Languages::kp_tap.captured_amount"
+msgid "kp_tap.captured_amount"
+msgstr "Captured Amount"
+
+msgctxt "Languages::kp_tap.refunded_amount"
+msgid "kp_tap.refunded_amount"
+msgstr "Refunded Amount"
+
+msgctxt "Languages::kp_tap.order_time"
+msgid "kp_tap.order_time"
+msgstr "Order time"
+
+msgctxt "Languages::kp_tap.currency_code"
+msgid "kp_tap.currency_code"
+msgstr "Currency code"
+
+msgctxt "Languages::kp_tap.trx_id"
+msgid "kp_tap.trx_id"
+msgstr "Trx ID"
+
+msgctxt "Languages::kp_tap.pay_your_order"
+msgid "kp_tap.pay_your_order"
+msgstr "Pay your order"
+
+msgctxt "Languages::refunded"
+msgid "refunded"
+msgstr "Refunded"
+
+msgctxt "Languages::voided"
+msgid "voided"
+msgstr "Voided"
+
+msgctxt "Languages::delayed"
+msgid "delayed"
+msgstr "Delayed"
+
+msgctxt "Languages::reason_text"
+msgid "reason_text"
+msgstr "Processor response"
