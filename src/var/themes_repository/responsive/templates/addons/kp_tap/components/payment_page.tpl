@@ -15,14 +15,9 @@
     <script type="text/javascript" src="//goSellJSLib.b-cdn.net/v1.6.1/js/gosell.js"></script>
     
 <script>
-//$return_url = "http://localhost/cs-cartnNEW4/index.php?dispatch=payment_notification.notify&payment=tap&order_id=123&secretkey=sk_test_kovrMB0mupFJXfNZWx6Etg5y";
+
         
     setTimeout(function(){ 
-     //$('#button-confirm').on('click', function() {
-        // console.log('{{$paymentmode}}');
-        // console.log('{$payed_url nofilter}}');
-        //alert("here");
-
         if('{$language}'=='english'){
             var language = 'en';
             var labels = {
